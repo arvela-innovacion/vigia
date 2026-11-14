@@ -1,0 +1,7 @@
+# Mensaje para pegar al iniciar el nuevo chat de Work
+
+Vamos a continuar el proyecto **VIGIA**, prototipo de visión artificial y reconocimiento de candidatos de matrícula sobre Raspberry Pi 5. He preparado documentación de traspaso en este paquete y el código está en el repositorio privado de GitHub `arvela-innovacion/vigia` (rama `main`, verificar). Lee primero `INSTRUCCIONES_PARA_WORK.md`, `ARQUITECTURA_Y_ESTADO.md`, `DEPENDENCIAS_Y_REPRODUCIBILIDAD.md`, `SEGURIDAD_Y_PUBLICACION.md` y `PLAN_DE_TRABAJO.md`; después inspecciona **el código real** del repo.
+
+Puntos críticos: conservar lo que ya funciona; distinguir candidatos OCR de matrículas verificadas; las listas y alertas críticas son ficticias/simuladas; Telegram V11 envía resúmenes informativos pero el flujo integral de alertas aún no está validado; no introducir ni publicar credenciales; no inventar versiones de dependencias. La cámara Tapo C200 por RTSP es el siguiente gran objetivo, todavía pendiente.
+
+**Tu primera tarea es solo analizar, sin modificar archivos:** dame un inventario del repositorio, discrepancias respecto al traspaso, riesgos técnicos y de seguridad, plan priorizado de mejoras, pruebas necesarias y la primera intervención mínima propuesta. Pídeme autorización antes de editar o ejecutar operaciones destructivas. Responde en español con instrucciones concretas y comandos diferenciando Raspberry/Linux de Windows/PowerShell.
